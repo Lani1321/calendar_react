@@ -5,6 +5,14 @@ This is a Calendar Web App.  You can add new events to your calendar.  This app 
 * Ruby version: 2.2.5
 * Rails version: 5.0.6
 
+# Installation
+
+Clone repo
+Run rake db:seed
+Run rake db:migrate
+Start Rails Server
+Open your browser and head to localhost:3000
+
 # Contributing
 
 Bug reports and pull requests are welcome. If you see an opportunity for improvement go ahead and use a typical git workflow:
