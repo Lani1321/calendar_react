@@ -1,25 +1,18 @@
-# README
+# Calendar
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a Calendar Web App.  You can add new events to your calendar.  This app was built to practice using React with Rails
 
-Things you may want to cover:
+* Ruby version: 2.2.5
+* Rails version: 5.0.6
 
-* Ruby version
+# Contributing
 
-* System dependencies
+Bug reports and pull requests are welcome. If you see an opportunity for improvement go ahead and use a typical git workflow:
 
-* Configuration
+Fork this repository
+Make the change on your fork, with descriptive commits in the standard format
+Open a Pull Request against this repo
 
-* Database creation
+This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the Contributor Covenant code of conduct.
 
-* Database initialization
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# calendar_react
